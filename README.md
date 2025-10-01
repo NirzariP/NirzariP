@@ -5,7 +5,7 @@
 🤖 Enthusiastic about Machine Learning, Deep Learning, and AI-driven Systems  
 💡 Passionate about building intelligent solutions for real-world problems  
 
----
+
 
 ## 🔬 Projects
 
@@ -21,17 +21,17 @@
 - 📚 **Book Recommendation System**  
   Machine learning model providing personalized book suggestions recommendations based on popularity and collaborative filtering.  
 
----
+
 
 ## 🌱 Current Focus  
 - Recommender Systems and Natural Language Processing  
 - AI for personalized and adaptive solutions  
 
----
+
 
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/nirzari-parikh)  
 
----
+
 
 ⭐ *Always eager to collaborate on ML/AI projects and share knowledge with the community!*  
