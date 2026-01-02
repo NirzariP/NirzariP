@@ -9,7 +9,7 @@
 
 ## 🔬 Projects
 
-- 🖼️ **Music Classification & Recommendation System**  
+- 🎵 **Music Classification & Recommendation System**  
   Content-based music recommendation system that analyzes audio features—genre, mood (arousal–valence), and instruments—to recommend musically similar songs without relying on user history or popularity.  
 
 - 🍴 **Restaurant Recommendation System**  
