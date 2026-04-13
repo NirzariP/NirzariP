@@ -18,8 +18,8 @@
 - 💬 **WhatsApp Chat & Sentiment Analyzer**  
   NLP-driven tool to analyze WhatsApp conversations and detect overall sentiment and trends.  
 
-- 📚 **Book Recommendation System**  
-  Machine learning model providing personalized book suggestions recommendations based on popularity and collaborative filtering.  
+- 🏥 **SynapPulse**  
+   AI-powered health intelligence platform predicting user health scores from wearable data, with real-time dashboards and a Gemini-powered health chatbot.  
 
 
 
