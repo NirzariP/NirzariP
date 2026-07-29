@@ -15,8 +15,8 @@
 - 🎵 **Music Classification & Recommendation System**  
   Content-based music recommendation system that analyzes audio features—genre, mood (arousal–valence), and instruments—to recommend musically similar songs without relying on user history or popularity.  
 
-- 🍴 **Restaurant Recommendation System**  
-  Personalized restaurant recommendations based on food preferences using collaborative filtering and content-based methods.  
+- 🏡 **Husky Housing**  
+  A listings-and-chat platform for Northeastern students hunting for off-campus housing — filter listings by rent, roommates, and location, then message the poster directly with real-time chat powered by gRPC and Kafka.  
 
 - 🏥 **SynapPulse**  
    AI-powered health intelligence platform predicting user health scores from wearable data, with real-time dashboards and a Gemini-powered health chatbot.  
