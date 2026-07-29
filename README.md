@@ -2,12 +2,15 @@
 ### 👋 Hi, I'm Nirzari Parikh
 
 🎓 Graduate Student (MS in Artificial Intelligence) at Northeastern University  
-🤖 Enthusiastic about Machine Learning, Deep Learning, and AI-driven Systems  
-💡 Passionate about building intelligent solutions for real-world problems  
+🤖 Building with Machine Learning, LLMs, and Generative AI
+💡 Enjoy turning ideas into impactful AI applications 
 
 
 
 ## 🔬 Projects
+
+- 💊 **DrugRAG**
+  Context-aware LLM-powered drug interaction assistant that detects and explains drug–drug, drug–food, and drug–herb interactions using LangGraph, Gemini, and Retrieval-Augmented Generation (RAG). Features human-in-the-loop validation, Containerized using docker, and Prometheus/Grafana monitoring for LLM latency and workflow observability.
 
 - 🎵 **Music Classification & Recommendation System**  
   Content-based music recommendation system that analyzes audio features—genre, mood (arousal–valence), and instruments—to recommend musically similar songs without relying on user history or popularity.  
@@ -15,17 +18,14 @@
 - 🍴 **Restaurant Recommendation System**  
   Personalized restaurant recommendations based on food preferences using collaborative filtering and content-based methods.  
 
-- 💬 **WhatsApp Chat & Sentiment Analyzer**  
-  NLP-driven tool to analyze WhatsApp conversations and detect overall sentiment and trends.  
-
 - 🏥 **SynapPulse**  
    AI-powered health intelligence platform predicting user health scores from wearable data, with real-time dashboards and a Gemini-powered health chatbot.  
 
 
 
 ## 🌱 Current Focus  
-- Recommender Systems and Natural Language Processing  
-- AI for personalized and adaptive solutions  
+- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- AI Agents and Intelligent Automation 
 
 
 
@@ -37,12 +37,17 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
