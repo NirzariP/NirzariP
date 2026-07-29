@@ -2,8 +2,8 @@
 ### 👋 Hi, I'm Nirzari Parikh
 
 🎓 Graduate Student (MS in Artificial Intelligence) at Northeastern University  
-🤖 Building with Machine Learning, LLMs, and Generative AI
-💡 Enjoy turning ideas into impactful AI applications 
+🤖 Building with Machine Learning, LLMs, and Generative AI<br>
+💡 Enjoy turning ideas into impactful AI applications
 
 
 
