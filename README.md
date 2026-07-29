@@ -9,7 +9,7 @@
 
 ## 🔬 Projects
 
-- 💊 **DrugRAG**
+- 💊 **DrugRAG**<br>
   Context-aware LLM-powered drug interaction assistant that detects and explains drug–drug, drug–food, and drug–herb interactions using LangGraph, Gemini, and Retrieval-Augmented Generation (RAG). Features human-in-the-loop validation, Containerized using docker, and Prometheus/Grafana monitoring for LLM latency and workflow observability.
 
 - 🎵 **Music Classification & Recommendation System**  
